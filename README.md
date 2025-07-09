@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="color:#7F9CF5; font-size: 1.6rem;">
-  AI Enthusiast ✨ &nbsp;&nbsp; Cloud Explorer ☁️ &nbsp;&nbsp; Tech Lover 💻 &nbsp;&nbsp; Problem Solver 🧠 &nbsp;&nbsp; Dreamer 🌙
+  AI Enthusiast ✨ &nbsp;&nbsp; Cloud Explorer ☁️ &nbsp;&nbsp; Tech Lover 💻 &nbsp;&nbsp; Problem Solver 🧠
 </p>
 
 ---
