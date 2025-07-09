@@ -1,128 +1,59 @@
-<h1 align="center" style="font-weight: 900; font-size: 4rem; background: linear-gradient(270deg, #7F9CF5, #A5B3FF, #9988F7, #7F9CF5); background-size: 600% 600%; -webkit-background-clip: text; color: transparent; animation: gradientBG 20s ease infinite;">
-  👋 Hey, I'm Maya!
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave" /><br />
+  <span style="color:#7F9CF5; font-weight: 900; font-size: 3.8rem;">Hey, I'm Maya!</span>
 </h1>
 
-<style>
-@keyframes gradientBG {
-  0% {background-position:0% 50%;}
-  50% {background-position:100% 50%;}
-  100% {background-position:0% 50%;}
-}
-.glow-text {
-  color: #A5B3FF;
-  text-shadow: 0 0 8px #7F9CF5, 0 0 15px #9988F7, 0 0 20px #B3BCFF, 0 0 30px #7F9CF5;
-}
-.progress-bar {
-  background: #7F9CF5;
-  height: 12px;
-  border-radius: 10px;
-  margin-bottom: 10px;
-}
-.progress {
-  height: 100%;
-  border-radius: 10px;
-  background: linear-gradient(90deg, #A5B3FF, #9988F7);
-  transition: width 1s ease-in-out;
-}
-.skill-container {
-  width: 250px;
-  margin: 10px auto;
-  color: #B3BCFF;
-}
-</style>
-
-<p align="center" class="glow-text" style="font-size: 1.3rem; font-weight: 700; margin-top: -20px;">
-  <a href="mailto:mayaguragain.mg@gmail.com" style="color:#A5B3FF; text-decoration:none;">📫 Get in Touch</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/maya-guragain/" style="color:#A5B3FF; text-decoration:none;">🔗 Connect on LinkedIn</a>
+<p align="center">
+  <a href="mailto:mayaguragain.mg@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/📫-Email-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/maya-guragain/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗-LinkedIn-7F9CF5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mayaguragain">
+    <img alt="GitHub" src="https://img.shields.io/badge/🐙-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=800&color=7F9CF5&center=true&vCenter=true&width=700&lines=Code.+Create.+Innovate.;Debug.+Deploy.+Repeat.;Crafting+Future+Tech+Every+Day." alt="Typing animation" />
+<p align="center" style="margin: 25px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=600&color=7F9CF5&center=true&vCenter=true&width=700&lines=Code+%F0%9F%92%BB+Create+%F0%9F%92%A1+Innovate.;Debug+%F0%9F%94%8E+Deploy+%F0%9F%9A%80+Repeat.;Let's+build+cool+stuff!" alt="Typing animation 1" />
 </p>
 
-<div align="center" style="background: rgba(127, 156, 245, 0.15); border-radius: 25px; padding: 20px 30px; margin-bottom: 50px; box-shadow: 0 8px 30px rgba(127,156,245,0.2); max-width: 900px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayaguragain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" style="border-radius: 15px; margin-right: 5%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=radical&hide_border=true" width="45%" style="border-radius: 15px;" />
-</div>
-
----
-
-### ⚡ Skills That Power Me
-
-<div align="center" style="max-width: 600px; margin: auto; color: #B3BCFF;">
-
-<div class="skill-container">
-  <div>Python 🐍</div>
-  <div class="progress-bar"><div class="progress" style="width: 90%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>Java ☕</div>
-  <div class="progress-bar"><div class="progress" style="width: 85%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>C & C# 💻</div>
-  <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>JavaScript ⚡</div>
-  <div class="progress-bar"><div class="progress" style="width: 75%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>Django & ASP.NET 🌐</div>
-  <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>AWS & Cloud ☁️</div>
-  <div class="progress-bar"><div class="progress" style="width: 70%;"></div></div>
-</div>
-
-<div class="skill-container">
-  <div>Git & Linux 🐧</div>
-  <div class="progress-bar"><div class="progress" style="width: 85%;"></div></div>
-</div>
-
-</div>
-
----
-
-### 🚀 What Drives Me
-
-<p align="center" style="color:#A5B3FF; font-size: 1.3rem; font-weight: 700; letter-spacing: 1.2px; margin-top: 40px; margin-bottom: 60px;">
-  AI & Automation &nbsp;&bull;&nbsp; Full-Stack Dev &nbsp;&bull;&nbsp; Systems & Networking<br/>
-  Cloud Architecture &nbsp;&bull;&nbsp; Data Visualization &nbsp;&bull;&nbsp; UX/UI Design &nbsp;&bull;&nbsp; Building Cool Stuff
+<p align="center" style="margin: 25px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=700&color=9988F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%E2%9C%A8;Full-Stack+Dev+%F0%9F%92%BB;Cloud+%26+Networking+%E2%9A%99" alt="Typing animation 2" />
 </p>
 
----
-
-### 🎨 Fun Facts
-
-<ul style="max-width: 700px; margin: auto; color: #B3BCFF; font-size: 1.1rem; line-height: 1.6;">
-  <li>💡 Obsessed with writing clean, elegant code</li>
-  <li>🔍 Debugging is like solving puzzles to me</li>
-  <li>🎧 Coding with lo-fi beats and anime OSTs</li>
-  <li>🧠 Always learning new tools and tech</li>
-  <li>☕ Fueled by caffeine and curiosity</li>
-</ul>
+<p align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayaguragain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" style="border-radius: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=radical&hide_border=true" width="48%" style="border-radius: 15px;" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7F9CF5/mayaguragain" alt="Maya's GitHub Contribution Graph" width="700" style="border-radius: 15px; box-shadow: 0 6px 20px rgba(127,156,245,0.3);" />
+  <!-- Skill badges glowing -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center" style="font-size: 1.4rem; font-weight: 700; color:#9988F7; margin-top: 40px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=4500&pause=900&color=9988F7&center=true&vCenter=true&width=700&lines=Let%27s+build+awesome+stuff!;Always+open+to+collabs.;Hit+me+up!" alt="Typing animation" />
+<p align="center" style="margin-top: 20px;">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-<p align="center" style="color: #999; font-size: 0.9rem; font-style: italic; margin-top: 40px;">
-  Crafted with 💜 by Maya
+<p align="center" style="font-weight:700; font-size:1.3rem; color:#7F9CF5; margin-top: 50px;">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="130" alt="rocket launch" /><br />
+  Let's build amazing things! 🚀
+</p>
+
+<p align="center" style="font-size: 0.9rem; color: #999; margin-top: 40px;">
+  Made with 💜 by Maya
 </p>
