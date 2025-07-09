@@ -1,23 +1,21 @@
-<h1 align="center" style="color:#7F9CF5; font-weight: 900; font-size: 5rem; margin-bottom: 25px;">
-  Hello, I'm Maya! 👋
-</h1>
-
-<p align="center" style="margin: 20px 0 40px 0; color:#7F9CF5; font-size: 2rem; font-weight: 700;">
-  Code. Create. Innovate.
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=7F9CF5&center=true&width=500&lines=Hello%2C+I'm+Maya!+%F0%9F%91%8B;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
-<p align="center" style="margin: 15px 0 40px 0; color:#9988F7; font-size: 1.8rem;">
+<!-- Skill Highlights -->
+<p align="center" style="color:#9988F7; font-size: 1.8rem;">
   Python 🐍 &nbsp;&nbsp; Java ☕ &nbsp;&nbsp; JavaScript ✨ &nbsp;&nbsp; AWS ☁️ &nbsp;&nbsp; Linux 🐧 &nbsp;&nbsp; Git 🐙
 </p>
 
-<p align="center" style="margin: 15px 0 50px 0; color:#7F9CF5; font-size: 1.6rem;">
+<p align="center" style="color:#7F9CF5; font-size: 1.6rem;">
   AI Enthusiast ✨ &nbsp;&nbsp; Cloud Explorer ☁️ &nbsp;&nbsp; Tech Lover 💻 &nbsp;&nbsp; Problem Solver 🧠 &nbsp;&nbsp; Dreamer 🌙
 </p>
 
 ---
 
-<p align="center" style="margin: 30px 0 50px 0;">
-  <!-- Contact Badges -->
+<!-- Contact Badges -->
+<p align="center">
   <a href="mailto:mayaguragain.mg@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail" />
   </a>
@@ -56,6 +54,7 @@
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 ---
 
 ### 🗃️ Databases & Formats
@@ -66,17 +65,17 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+
 ---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayaguragain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&icon_color=7F9CF5&title_color=7F9CF5" alt="Maya's GitHub Stats" height="180" />
 </p>
 
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=tokyonight&hide_border=true&title_color=7F9CF5" alt="Maya's Top Languages" height="160" />
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayaguragain&theme=tokyonight&hide_border=true&background=000000&currStreakLabel=7F9CF5&sideLabels=FFFFFF&ring=7F9CF5" alt="GitHub Streak" height="160" />
@@ -84,17 +83,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayaguragain&theme=gruvbox&column=7&margin-w=10&no-bg=true&no-frame=true&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Reviews" alt="Maya's GitHub Trophies" width="100%" />
 </p>
 
 ---
 
-<p align="center" style="margin-top: 60px;">
-  <img src="https://ghchart.rshah.org/7F9CF5/mayaguragain" alt="GitHub Contribution Chart" width="950" style="border-radius: 20px;" />
+### 📅 Contributions
+<p align="center">
+  <img src="https://ghchart.rshah.org/7F9CF5/mayaguragain" alt="GitHub Contribution Chart" width="950" />
 </p>
 
 ---
+
 <p align="center" style="font-weight: 700; font-size: 1.7rem; color: #7F9CF5; margin-top: 70px;">
   Made with 💜 by Maya
 </p>
