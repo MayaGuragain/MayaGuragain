@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#7F9CF5; font-weight: 900; font-size: 5rem; margin-bottom: 25px;">
-  Hey, I'm Maya! 👋
+  Hello, I'm Maya! 👋
 </h1>
 
 <p align="center" style="margin: 20px 0 40px 0; color:#7F9CF5; font-size: 2rem; font-weight: 700;">
