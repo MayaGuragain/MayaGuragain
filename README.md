@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Maya!</h1>
 
 <p align="center">
-  CS Student @ George Mason University 🎓<br>
   <a href="mailto:mayaguragain.mg@gmail.com">📫 Contact Me</a> • 
   <a href="https://www.linkedin.com/in/maya-guragain/">🔗 LinkedIn</a>
 </p>
