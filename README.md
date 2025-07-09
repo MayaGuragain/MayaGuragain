@@ -92,7 +92,3 @@
 </p>
 
 ---
-
-<p align="center" style="font-weight: 700; font-size: 1.7rem; color: #7F9CF5; margin-top: 70px;">
-  Made with 💜 by Maya
-</p>
