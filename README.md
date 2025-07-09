@@ -46,10 +46,14 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayaguragain&theme=react-dark&hide_border=true&area=true&color=7F9CF5&line=BCB9F7&point=9988F7" />
+  <!-- Contribution graph from GitHub Readme Stats alternative -->
+  <img src="https://ghchart.rshah.org/7F9CF5/mayaguragain" alt="Maya's GitHub contribution graph" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=600&color=9988F7&center=true&vCenter=true&width=500&lines=Let%27s+build+cool+stuff!;Open+to+collabs+and+chats!" />
+  <!-- Typing SVG with same style but from stable source -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=600&color=9988F7&center=true&vCenter=true&width=500&lines=Let%27s+build+cool+stuff!;Open+to+collabs+and+chats!" alt="typing animation" />
 </p>
