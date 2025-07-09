@@ -77,10 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=tokyonight&hide_border=true&title_color=7F9CF5" alt="Maya's Top Languages" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayaguragain&theme=tokyonight&hide_border=true&background=000000&currStreakLabel=7F9CF5&sideLabels=FFFFFF&ring=7F9CF5" alt="GitHub Streak" height="160" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
