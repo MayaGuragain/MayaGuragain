@@ -86,10 +86,4 @@
 
 ---
 
-### 📅 Contributions
-<p align="center">
-  <img src="https://ghchart.rshah.org/7F9CF5/mayaguragain?t=20250709" alt="GitHub Contribution Chart" width="950" />
-</p>
-
-
 
