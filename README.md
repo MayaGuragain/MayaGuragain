@@ -69,9 +69,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayaguragain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&icon_color=7F9CF5&title_color=7F9CF5&t=20250709" alt="Maya's GitHub Stats" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=tokyonight&hide_border=true&title_color=7F9CF5&t=20250709" alt="Maya's Top Languages" height="160" />
