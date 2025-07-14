@@ -78,12 +78,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayaguragain&theme=gruvbox&column=7&margin-w=10&no-bg=true&no-frame=true&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Reviews&t=20250709" alt="Maya's GitHub Trophies" width="100%" />
-</p>
-
----
-
-
