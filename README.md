@@ -5,11 +5,7 @@
 
 <!-- Skill Highlights -->
 <p align="center" style="color:#9988F7; font-size: 1.8rem;">
-  Python 🐍 &nbsp;&nbsp; Java ☕ &nbsp;&nbsp; JavaScript ✨ &nbsp;&nbsp; AWS ☁️ &nbsp;&nbsp; Linux 🐧 &nbsp;&nbsp; Git 🐙
-</p>
-
-<p align="center" style="color:#7F9CF5; font-size: 1.6rem;">
-  AI Enthusiast ✨ &nbsp;&nbsp; Cloud Explorer ☁️ &nbsp;&nbsp; Tech Lover 💻 &nbsp;&nbsp; Problem Solver 🧠
+  Python 🐍 &nbsp;&nbsp; C# 💠 &nbsp;&nbsp; JavaScript ✨ &nbsp;&nbsp; AWS ☁️ &nbsp;&nbsp; Linux 🐧 &nbsp;&nbsp; Git 🐙
 </p>
 
 ---
