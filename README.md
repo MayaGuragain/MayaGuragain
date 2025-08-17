@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=7F9CF5&center=true&width=500&lines=Hello%2C+I'm+Maya!+%F0%9F%91%8B;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
+
 <!-- Skill Highlights -->
 <p align="center" style="color:#9988F7; font-size: 1.8rem;">
   Python 🐍 &nbsp;&nbsp; C# 💠 &nbsp;&nbsp; JavaScript ✨ &nbsp;&nbsp; AWS ☁️ &nbsp;&nbsp; Linux 🐧 &nbsp;&nbsp; Git 🐙
