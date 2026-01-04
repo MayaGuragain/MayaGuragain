@@ -65,10 +65,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaguragain&layout=compact&theme=tokyonight&hide_border=true&title_color=7F9CF5&t=20250709" alt="Maya's Top Languages" height="160" />
-</p>
-
----
